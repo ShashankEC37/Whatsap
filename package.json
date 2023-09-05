@@ -1,0 +1,7 @@
+{
+  "name": "Whatsapp",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
